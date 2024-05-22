@@ -1,0 +1,16 @@
+{
+  "name": "rsbuild-v0.6",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rsbuild dev --open",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^0.6.15"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
